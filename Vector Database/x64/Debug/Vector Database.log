@@ -1,0 +1,3 @@
+﻿  Vector Database.cpp
+C:\Users\badbo\source\repos\Vector Database\Vector Database\Vector Database.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vector Database.vcxproj -> C:\Users\badbo\source\repos\Vector Database\x64\Debug\Vector Database.exe
